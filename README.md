@@ -6,6 +6,8 @@
 - Część 2. - modelowanie (w folderze modelling)
 
 Obie części są w postaci Jupyter Notebook, wraz ze zbiorem danych dla części drugiej w postaci 'offers.csv' w folderze modelling.
+Do uruchomienia notebooków, wystarczy otworzyć je w wybranym IDE i wcisnąć 'Run All'.
+
 Część 1. załączyłem w oryginale, natomiast po ponownym uruchomieniu (29.01) napotkałem rozjazd w funkcjonalnosci strony [justjoin.it]() i skrypt na ten moment nie jest aktualny. Dane, które zostały pozyskane w części pierwszej również odzwierciedlają stan faktyczny z dnia pozyskania.
 
 
